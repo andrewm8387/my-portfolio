@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.f1fa8b49.css",
+    "main.js": "/my-portfolio/static/js/main.30e42228.js",
+    "static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.jpg": "/my-portfolio/static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.9f4511c61dbf3e4b2515.jpg",
+    "static/media/sideBanner.jpg": "/my-portfolio/static/media/sideBanner.4ffb604a9127e9096888.jpg",
+    "static/media/blackjack.jpg": "/my-portfolio/static/media/blackjack.a8db4aafe0d9abcbab71.jpg",
+    "static/media/pirate.jpg": "/my-portfolio/static/media/pirate.ac0cab9edf15ac7d6cbb.jpg",
+    "static/media/lucas-marcomini-9VGOu_EgQkA-unsplash.jpg": "/my-portfolio/static/media/lucas-marcomini-9VGOu_EgQkA-unsplash.c6f43bbee6b85ac597ef.jpg",
+    "static/media/chris-liverani-ViEBSoZH6M4-unsplash.jpg": "/my-portfolio/static/media/chris-liverani-ViEBSoZH6M4-unsplash.78c09c0a1605d86ea45b.jpg",
+    "static/media/react-svgrepo-com.svg": "/my-portfolio/static/media/react-svgrepo-com.fcca8017310f0cf8ffba4dbf899f2779.svg",
+    "static/media/java-logo.svg": "/my-portfolio/static/media/java-logo.c88821ffbf285b8894158020df2c6409.svg",
+    "static/media/github-142-svgrepo-com.svg": "/my-portfolio/static/media/github-142-svgrepo-com.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/js01-svgrepo-com.svg": "/my-portfolio/static/media/js01-svgrepo-com.952f950e6c460b6efb6a3e7c858d4b5a.svg",
+    "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.472162bfd17256365103ba572e3a9a58.svg",
+    "static/media/terminal-bash.svg": "/my-portfolio/static/media/terminal-bash.c828f82054efc32357b39ef6ab3ff677.svg",
+    "static/media/html-124-svgrepo-com.svg": "/my-portfolio/static/media/html-124-svgrepo-com.10a58682adde3b5e6f2be37de92758cf.svg",
+    "static/media/c-logo.svg": "/my-portfolio/static/media/c-logo.7d527e7bea1f4dbc22b59b8f4a323837.svg",
+    "static/media/google-svgrepo-com.svg": "/my-portfolio/static/media/google-svgrepo-com.be0f3fa6de524924bf61b9bf2d86cf28.svg",
+    "static/media/css3-02-svgrepo-com.svg": "/my-portfolio/static/media/css3-02-svgrepo-com.0b435e818710854aebd35efe9280f77c.svg",
+    "static/media/microsoft-150-svgrepo-com.svg": "/my-portfolio/static/media/microsoft-150-svgrepo-com.c38781fc28e15810186a95522a9b344d.svg",
+    "static/media/python-logo.svg": "/my-portfolio/static/media/python-logo.a72ae4694908a3b4405d38e460e689eb.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/email.svg": "/my-portfolio/static/media/email.51013344a07c496679158e9a7cf9940d.svg",
+    "main.f1fa8b49.css.map": "/my-portfolio/static/css/main.f1fa8b49.css.map",
+    "main.30e42228.js.map": "/my-portfolio/static/js/main.30e42228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1fa8b49.css",
+    "static/js/main.30e42228.js"
+  ]
+}
