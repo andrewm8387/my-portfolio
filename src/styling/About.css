@@ -1,0 +1,55 @@
+.about {
+    font-family: Inter, serif;
+    background-color: gray;
+    margin: 75px auto;
+    border-radius: 25px;
+    width: 700px;
+    padding: 25px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-image: url("../imgs/sideBanner.jpg"), radial-gradient(26.76% 85.52% at 86.73% -12.86%, rgb(194, 65, 255) 6.65%, rgb(107, 87, 255) 100%);
+    background-size: auto 101%, auto;
+    background-repeat: no-repeat, no-repeat;
+    background-position: 100% 50%, center;
+    color: white;
+}
+
+.about-profile {
+    display: flex;
+}
+
+.about-para {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.about-para > p {
+    margin: 0;
+}
+
+.about-name {
+    font-weight: 700;
+    color: #FFA500;
+    font-size: 20px;
+}
+
+.about-student {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFD700;
+}
+
+.about-portrait {
+    height: 100px;
+    width: auto;
+    border-radius: 25px;
+}
+
+.about-bio {
+    margin: 25px 25px 0 25px;
+    width: 300px;
+    font-weight: 500;
+}
+

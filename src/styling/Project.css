@@ -1,0 +1,28 @@
+a {
+    color: inherit;
+    text-decoration: inherit;
+    text-align: inherit;
+}
+
+.project {
+    margin: 15px;
+    background-color: #445769;
+    width: 150px;
+    height: 350px;
+    border-radius: 25px;
+    cursor: pointer;
+    overflow: clip;
+}
+
+.project-image {
+    width: auto;
+    height: 225px;
+    border-radius: 25px 25px 0 0;
+}
+
+.project-title {
+    font-family: Inter, serif;
+    font-size: 15px;
+    margin: 15px;
+    text-align: center;
+}

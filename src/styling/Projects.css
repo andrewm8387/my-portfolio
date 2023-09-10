@@ -1,0 +1,31 @@
+.projects-container {
+    margin: 75px 0;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.projects-heading {
+    margin: 0 auto;
+    padding: 20px 40px;
+    border-radius: 25px 25px 0 0;
+    max-width: 800px;
+    min-width: 650px;
+    width: 75%;
+    background-color: #445769;
+    font-family: Inter, serif;
+}
+
+.projects {
+    display: grid;
+    grid: max-content / auto auto auto auto auto;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 0 0 25px 25px;
+    max-width: 800px;
+    min-width: 650px;
+    width: 75%;
+    background-image: radial-gradient(26.76% 85.52% at 50% -12.86%, rgb(194, 65, 255) 6.65%, rgb(107, 87, 255) 100%);
+    padding: 0 40px;
+}
+
