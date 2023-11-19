@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.5e9ad89e.css",
-    "main.js": "/my-portfolio/static/js/main.19f8b27a.js",
+    "main.js": "/my-portfolio/static/js/main.fd4adeb6.js",
     "static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.jpg": "/my-portfolio/static/media/thisisengineering-raeng-SyRlD4s_amw-unsplash.9f4511c61dbf3e4b2515.jpg",
     "static/media/sideBanner.jpg": "/my-portfolio/static/media/sideBanner.4ffb604a9127e9096888.jpg",
     "static/media/blackjack.jpg": "/my-portfolio/static/media/blackjack.a8db4aafe0d9abcbab71.jpg",
     "static/media/pirate.jpg": "/my-portfolio/static/media/pirate.ac0cab9edf15ac7d6cbb.jpg",
     "static/media/lucas-marcomini-9VGOu_EgQkA-unsplash.jpg": "/my-portfolio/static/media/lucas-marcomini-9VGOu_EgQkA-unsplash.c6f43bbee6b85ac597ef.jpg",
     "static/media/web.jpg": "/my-portfolio/static/media/web.7d535815e88e29dd7060.jpg",
+    "static/media/headshot.jpg": "/my-portfolio/static/media/headshot.1f4c142fedfc27e64551.jpg",
     "static/media/chris-liverani-ViEBSoZH6M4-unsplash.jpg": "/my-portfolio/static/media/chris-liverani-ViEBSoZH6M4-unsplash.78c09c0a1605d86ea45b.jpg",
     "static/media/react-svgrepo-com.svg": "/my-portfolio/static/media/react-svgrepo-com.fcca8017310f0cf8ffba4dbf899f2779.svg",
     "static/media/java-logo.svg": "/my-portfolio/static/media/java-logo.c88821ffbf285b8894158020df2c6409.svg",
+    "static/media/go-svgrepo-com.svg": "/my-portfolio/static/media/go-svgrepo-com.4817b0c5a2d11600dc600f6228ce3bb6.svg",
     "static/media/github-142-svgrepo-com.svg": "/my-portfolio/static/media/github-142-svgrepo-com.5531be85d7a8d6f333e5c7136944a022.svg",
     "static/media/js01-svgrepo-com.svg": "/my-portfolio/static/media/js01-svgrepo-com.952f950e6c460b6efb6a3e7c858d4b5a.svg",
     "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.472162bfd17256365103ba572e3a9a58.svg",
@@ -21,13 +23,14 @@
     "static/media/css3-02-svgrepo-com.svg": "/my-portfolio/static/media/css3-02-svgrepo-com.0b435e818710854aebd35efe9280f77c.svg",
     "static/media/microsoft-150-svgrepo-com.svg": "/my-portfolio/static/media/microsoft-150-svgrepo-com.c38781fc28e15810186a95522a9b344d.svg",
     "static/media/python-logo.svg": "/my-portfolio/static/media/python-logo.a72ae4694908a3b4405d38e460e689eb.svg",
+    "static/media/database-svgrepo-com.svg": "/my-portfolio/static/media/database-svgrepo-com.c832490201afb1baf339d408a8145198.svg",
     "static/media/email.svg": "/my-portfolio/static/media/email.51013344a07c496679158e9a7cf9940d.svg",
     "index.html": "/my-portfolio/index.html",
     "main.5e9ad89e.css.map": "/my-portfolio/static/css/main.5e9ad89e.css.map",
-    "main.19f8b27a.js.map": "/my-portfolio/static/js/main.19f8b27a.js.map"
+    "main.fd4adeb6.js.map": "/my-portfolio/static/js/main.fd4adeb6.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9ad89e.css",
-    "static/js/main.19f8b27a.js"
+    "static/js/main.fd4adeb6.js"
   ]
 }
